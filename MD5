@@ -1,0 +1,14 @@
+c018d832b41287363729600190b64829 *DESCRIPTION
+22541e87894e173ba983ed22df720b58 *NAMESPACE
+af7b70d0026751183838be80abe3595e *R/c_dms.r
+1e46a5637a4feaf28938caf7ed42ab54 *R/c_score.r
+6e549843a5cd585924add6e7de27559b *R/candidate_genes.r
+9889f854721a3c534c237ca1aa2c5015 *R/globalQueryJ.r
+b256c07a17b84a3b58b54fdef3dfec15 *R/integGM.r
+394ee43fdcb54872bbdd28321faeae64 *R/node2treePath.r
+7676c3ce0ff9368febccdabddbae3edb *R/permutation.r
+8ca01b11dda1c193352d604713f85fa0 *R/seedQueryJ.r
+32a098569b36afcf8bd05ad6faed90f8 *man/c_dms.Rd
+69aff636a13998bf34a5aa24021fa3ab *man/c_score.Rd
+b662f8ac3c320d8cce51eefaed09e1e4 *man/candidate_genes.Rd
+efe8cde3729ff7879df405a107b7ba4b *man/permutation.Rd
