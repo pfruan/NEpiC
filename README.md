@@ -1,1 +1,1 @@
-# NEpiC
+Package for a Network assisted algorithm for Epigenetic studies using mean and variance Combined signals: NEpiC. NEpiC combines both signals in mean and variance differences in methylation level between case and control groups searching for differentially methylated sub-networks (modules) using the protein-protein interaction network.
